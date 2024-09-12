@@ -1,6 +1,8 @@
 # list-reconcile
 List reconciliation using Python
 
+## Source code
+
 ```python
 def find_unique_elements(list1, list2):
     """
@@ -43,4 +45,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+## Output
+
+```text
 ```
