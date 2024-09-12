@@ -1,5 +1,5 @@
 # list-reconcile
-List reconciliation using Python
+List reconciliation script using Python
 
 ## Source code
 
